@@ -1,0 +1,15 @@
+{
+  "name": "signature_generator",
+  "description": "Template generator for email",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Terstuyah Maksim",
+    "email": "terstuyah.maksim@yojji.io"
+  },
+  "scripts": {},
+  "dependencies": {
+    "mustache": "^4.1.0"
+  },
+  "devDependencies": {}
+}
