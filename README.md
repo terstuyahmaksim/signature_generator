@@ -2,7 +2,7 @@
 
 To generate templates, you must place the res.json file in the root folder with the project.
 
-## Data format
+### Data format
 
 ```json
 [
@@ -23,6 +23,6 @@ To generate templates, you must place the res.json file in the root folder with 
 ];
 ```
 
-## Run script:
+### Run script:
 
 `node template.js`
